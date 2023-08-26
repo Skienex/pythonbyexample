@@ -21,7 +21,7 @@
   - [Einfache Funktion](functions/simple_function.md)
   - [Funktionen mit Rückgabewerten](functions/return.md)
   - [Funktionen mit Argumenten](functions/args.md)
-- [Implementierungen](librarys/index.md)
+- [Bibliotheken](librarys/index.md)
   - [Erweiterte mathematische Funktionen](librarys/math.md)
   - [Zeit in Python](librarys/time.md)
   - [Zufälle in Python](librarys/random.md)
