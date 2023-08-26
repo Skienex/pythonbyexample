@@ -25,10 +25,8 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    # concurrency:
-    #   group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v1
