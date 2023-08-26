@@ -11,3 +11,7 @@ d = a + b
 Der Wert von `c` ist `25` und der Wert von `d` ist `15`.
 
 Man kann genauso auch mit `-`, `*` und `/` rechnen.
+
+## Spezielle Operatoren
+Es gibt auch noch weitere Operatoren wie Modulo. Dies wird mit dem Rechenzeichen `%` benutzt und gibt den Rest
+einer Division wieder.

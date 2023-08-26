@@ -19,6 +19,12 @@ Man kann bei [Funktionen](hello_world.md) auch Zahlen übergeben:
 print(5)
 ```
 
+Wenn du Zahlen als Zahlen mit Text zusammen in `print()` Funktion schreiben möchtest, musst du ein `,` verwenden, um
+diese Zahlen zu kombinieren:
+```py
+print("Die Zahl ist", 15, "!")
+```
+
 ## Sonstige
 
-Es gibt noch [Boolesche Werte](booleans.md), aber diese behandeln wir später.
+Es gibt noch [Boolesche Werte](bools.md), aber diese behandeln wir später.
