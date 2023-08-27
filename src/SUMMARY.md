@@ -28,3 +28,4 @@
       - [Zufälle in Python](librarys/random.md)
 - [Lösungen Aufgaben PIE]()
   - [1 - 20 als Quadrat und Kubikzahl mit der While-Schleife](solutions/twenty_numbers_as_sqare_and_cubic.md)
+  - [Binäruhr](solutions/binary_clock.md)
