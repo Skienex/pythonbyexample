@@ -9,7 +9,7 @@ Aufgabe 1
 wiederholungen = int(input("Gebe deine Wiederholungen ein: "))
 i = 0
 while i < wiederholungen:
-    print("Hallo Welt!)
+    print("Hallo Welt!")
     i = i + 1
 ```
 
