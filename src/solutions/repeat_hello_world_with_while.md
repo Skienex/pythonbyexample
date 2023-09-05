@@ -1,4 +1,4 @@
-# Mit einer While-Schleife Hallo Welt so oft ausgeben, wie der Input es möchte
+# Anzahl von Ausgaben mit der While-Schleife
 
 ## Arbeitsblatt:
 ![worksheet](assets/task_6.9.2023.png)
