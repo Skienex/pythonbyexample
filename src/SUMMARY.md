@@ -29,3 +29,4 @@
 - [Lösungen Aufgaben PIE]()
   - [1 - 20 als Quadrat und Kubikzahl mit der While-Schleife](solutions/twenty_numbers_as_sqare_and_cubic.md)
   - [Anzahl von Ausgaben mit der While-Schleife](solutions/repeat_hello_world_with_while.md)
+  - [Binäruhr](solutions/binary_clock.md)
